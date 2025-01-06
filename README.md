@@ -10,6 +10,7 @@ Kích hoạt Office 2010, 2013, 2016, 2019, 2021, Office 365 Mondo, Office 365 E
   - [Key by phone](https://github.com/BsNgChiThanh/ActiveOfficeByPhone)
 
 ## Trang chủ của kích hoạt cmd [bấm vào đây](https://msguides.com/install-office-multilanguage) ##
+  - [Kích hoạt mọi Office và Windows](https://raw.githubusercontent.com/BsNgChiThanh/MAS-TOOL/refs/heads/IMP/MAS.cmd)
   - [Kích hoạt Office 365 Mondo](https://raw.githubusercontent.com/BsNgChiThanh/Kich-hoat-Office/KichHoatOffice/ActiveOfficeMondo.cmd)
   - Kích hoạt office 2024:
     - [Office 2024 Prolus](https://raw.githubusercontent.com/BsNgChiThanh/Office2024Prolus/IMP/ActiveOffice2024Prolus.cmd)
